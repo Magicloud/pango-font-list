@@ -1,0 +1,11 @@
+[package]
+name = "pango-font-list"
+version = "2021.1.5"
+authors = ["Magicloud <1886157+Magicloud@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pangocairo = "0.10.0"
+pango = "0.9.1"
